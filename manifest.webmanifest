@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "Xeque — Xadrez contra a máquina",
+  "short_name": "Xeque",
+  "description": "Jogue xadrez contra a máquina no celular ou computador.",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#101412",
+  "theme_color": "#101412",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
